@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://your-uploaded-image-link.jpg" alt="Masterhead" />
-</p>
+[!MasterHead]](https://your-uploaded-image-link.jpg" alt="Masterhead)
+
 <h1 align="center">Hello there👋, I'm Rinvee</h1>
 <h3 align="center">A Network Security Analyst</h3>
 
