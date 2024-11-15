@@ -8,7 +8,7 @@
 
 >> Currently focusing on? **Implementing AI in security tools.**
 
->> Conversation interest? **- AI, Security Tools & Full Stack Development**
+>> Conversation interest? **- AI, Security Tools & Full Stack Development.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
