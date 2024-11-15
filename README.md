@@ -1,5 +1,5 @@
 <h1 align="center">Hello there👋, I'm Rinvee</h1>
-<h3 align="center">A Network Security Analyst.</h3>
+<h3 align="center">A Network Security Analyst</h3>
 
 <p>Pursuing advanced certifications in network security. Skilled in network infrastructure, multi-layered defense strategies, and data center management with hands-on experience in cybersecurity tools (CCNA certified, CCNP Data Center in progress). Proven research background in AI-driven threat detection and Zero-Trust Architecture, with a strong foundation in web development (MERN stack) and technical documentation. </p>
 
