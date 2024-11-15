@@ -3,11 +3,11 @@
 
 <p>Pursuing advanced certifications in network security. Skilled in network infrastructure, multi-layered defense strategies, and data center management with hands-on experience in cybersecurity tools (CCNA certified, CCNP Data Center in progress). Proven research background in AI-driven threat detection and Zero-Trust Architecture, with a strong foundation in web development (MERN stack) and technical documentation. </p>
 
-- 🌱 I’m currently learning **to implement AI in security tools.**
+>> I’m currently focusing **on implementing AI in security tools.**
 
-- 💬 Ask me about **AI & Security Tools**
+>> Conversation interest? **- AI, Security Tools, Full stack development**
 
-- 📫 Want to get in touch? **tajbiharinvee@gmail.com**
+>> Wanna get in touch? **- tajbiharinvee@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
