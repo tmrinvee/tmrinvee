@@ -1,6 +1,7 @@
- <img src="https://your-uploaded-image-link.jpg" alt="Masterhead" />
+<h1 align="center" style="background-color:#32174C; color:white; padding:10px; border-radius:10px;">
+  Hello there 👋, I'm Rinvee
+</h1>
 
-<h1 align="center">Hello there👋, I'm Rinvee</h1>
 <h3 align="center">A Network Security Analyst</h3>
 
 <p>Pursuing advanced certifications in network security. Skilled in network infrastructure, multi-layered defense strategies, and data center management with hands-on experience in cybersecurity tools (CCNA certified, CCNP Data Center in progress). Proven research background in AI-driven threat detection and Zero-Trust Architecture, with a strong foundation in web development (MERN stack) and technical documentation. </p>
